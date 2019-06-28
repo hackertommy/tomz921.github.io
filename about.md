@@ -4,27 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is the blog I'll use to keep people updated on the meta-analysis of research that I do, or where I'll post updates on projects that I am working on. I hope it serves as a resource to anyone who can make use of it!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [My Instagram](https://www.instagram.com/tomserrino/)
+* [My Twitter](https://twitter.com/tommyserrino)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## About Me
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I am a student at New Trier High School in Winnetka, Illinois. In my free time I like to code, pursue my interests in cybersecurity, debate, play video games, work out, and more. My business email is tom.serrino@gmail.com , if anyone wants to contact me.
