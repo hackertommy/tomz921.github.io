@@ -14,4 +14,4 @@ title: About
 
 ## About Me
 
-I am a student at New Trier High School in Winnetka, Illinois. In my free time I like to code, pursue my interests in cybersecurity, debate, play video games, work out, and more. My business email is tom.serrino@gmail.com , if anyone wants to contact me.
+In my free time I like to code, pursue my interests in cybersecurity, debate, play video games, work out, and more. My business email is tom.serrino@gmail.com , if anyone wants to contact me.
