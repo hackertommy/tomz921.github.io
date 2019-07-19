@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 
 <p class="message">
   This is the blog I'll use to keep people updated on the meta-analysis of research that I do, or where I'll post updates on projects that I am working on. I hope it serves as a resource to anyone who can make use of it!
 </p>
-
-
 
 * [My Instagram](https://www.instagram.com/tomserrino/)
 * [My Twitter](https://twitter.com/tommyserrino)

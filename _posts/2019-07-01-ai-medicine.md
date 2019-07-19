@@ -18,7 +18,7 @@ Because of this innovation, scientists and doctors can make significant strides 
 
 Surprisingly, these AI technologies have reached similar success rates to radiologists - where an abundance of data to input ensures the accuracy and efficiency of these technologies. According to one study, a "neural network" was able to identify cancers more accurately than four radiologists, and the accuracy of these networks is only increasing. The potential medical applications of neural networks are seemingly endless. As an example, so called "convolutional" neural networks recently have been able to quickly identify retinopathy and metastasis of cancer, potentially saving the lives of many people.
 
-![alt-text](https://imgur.com/a/P0TWUpl "Brain")
+![alt text](https://imgur.com/a/P0TWUpl "Brain")
 
 More distantly in the future, artificial intelligence may be used for alleviation of depression and anxiety symptoms. The privacy of not talking to a real person might be appealing to those who wish to remain more secretive about their condition. Mental health issues are heavily stigmatized, and so talking to something nonhuman might be part of the solution to our current crisis of health. This would have to be far in the future, though, but it’s not out of our reach. We are making incredible progress as a species in developing these machines, and it certainly seems possible.
 
@@ -30,6 +30,6 @@ Bernstein, Lenny. "U.S. Life Expectancy Declines Again, a Dismal Trend Not Seen 
 [https://www.washingtonpost.com/national/health-science/us-life-expectancy-declines-again-a-dismal-trend-not-seen-since-world-war-i/2018/11/28/ae58bc8c-f28c-11e8-bc79-68604ed88993_story.html?noredirect=on&utm_term=.4025c3b33f02.](https://www.washingtonpost.com/national/health-science/us-life-expectancy-declines-again-a-dismal-trend-not-seen-since-world-war-i/2018/11/28/ae58bc8c-f28c-11e8-bc79-68604ed88993_story.html?noredirect=on&utm_term=.4025c3b33f02) 
 
 Roy, Bangabdi. "Everything You Need to Know About Artificial Neural Network & Deep Learning - Part I." AirCTO. June 30, 2017. Accessed July 3, 2019. 
-[https://aircto.com/blog/everything-you-need-to-know-about-artificial-neural-network-deep-learning-part-i/.](https://aircto.com/blog/everything-you-need-to-know-about-artificial-neural-network-deep-learning-part-i/]
+[https://aircto.com/blog/everything-you-need-to-know-about-artificial-neural-network-deep-learning-part-i/.](https://aircto.com/blog/everything-you-need-to-know-about-artificial-neural-network-deep-learning-part-i/)
 
 
