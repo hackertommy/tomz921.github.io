@@ -19,7 +19,7 @@ Because of this innovation, scientists and doctors can make significant strides 
 Surprisingly, these AI technologies have reached similar success rates to radiologists - where an abundance of data to input ensures the accuracy and efficiency of these technologies. According to one study, a "neural network" was able to identify cancers more accurately than four radiologists, and the accuracy of these networks is only increasing. The potential medical applications of neural networks are seemingly endless. As an example, so called "convolutional" neural networks recently have been able to quickly identify retinopathy and metastasis of cancer, potentially saving the lives of many people.
 
 
-![alt text](https://imgur.com/a/P0TWUpl)
+![alt text](https://i.imgur.com/54fX9te.png)
 
 More distantly in the future, artificial intelligence may be used for alleviation of depression and anxiety symptoms. The privacy of not talking to a real person might be appealing to those who wish to remain more secretive about their condition. Mental health issues are heavily stigmatized, and so talking to something nonhuman might be part of the solution to our current crisis of health. This would have to be far in the future, though, but it’s not out of our reach. We are making incredible progress as a species in developing these machines, and it certainly seems possible.
 
