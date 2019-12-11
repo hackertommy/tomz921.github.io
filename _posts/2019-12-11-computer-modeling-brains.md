@@ -16,8 +16,8 @@ Once teams are effectively able to replicate the models of Fukai and his team, i
 
 ###### References
 
-Suzuki, Wendy A. “Associative Learning and the Hippocampus.” American Psychological Association, American Psychological Association, Feb. 2005, [www.apa.org/science/about/psa/2005/02/suzuki.](https://www.apa.org/science/about/psa/2005/02/suzuki.)
+Suzuki, Wendy A. “Associative Learning and the Hippocampus.” American Psychological Association, American Psychological Association, Feb. 2005, [www.apa.org/science/about/psa/2005/02/suzuki.](https://www.apa.org/science/about/psa/2005/02/suzuki)
 
-Barron, Helen C., et al. “Inhibitory Engrams in Perception and Memory.” PNAS, National Academy of Sciences, 27 June 2017, [www.pnas.org/content/114/26/6666.](https://www.pnas.org/content/114/26/6666.)
+Barron, Helen C., et al. “Inhibitory Engrams in Perception and Memory.” PNAS, National Academy of Sciences, 27 June 2017, [www.pnas.org/content/114/26/6666.](https://www.pnas.org/content/114/26/6666)
 
-“Computer Model Helps Make Sense of Human Memory.” ScienceDaily, ScienceDaily, 7 Oct. 2019, [www.sciencedaily.com/releases/2019/10/191007100419.htm.](https://www.sciencedaily.com/releases/2019/10/191007100419.htm.)
+“Computer Model Helps Make Sense of Human Memory.” ScienceDaily, ScienceDaily, 7 Oct. 2019, [www.sciencedaily.com/releases/2019/10/191007100419.htm.](https://www.sciencedaily.com/releases/2019/10/191007100419.htm)
